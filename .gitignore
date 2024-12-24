@@ -1,3 +1,3 @@
-# Ignore Go modules files
+# diretorio pra ignorar 
 go.mod
 go.sum
