@@ -1,1 +1,3 @@
-dpp.deb
+# Ignore Go modules files
+go.mod
+go.sum
